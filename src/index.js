@@ -195,7 +195,7 @@ class Game extends React.Component {
           <div>{status}</div>
           <br />
           <div>
-            <button onClick={() => this.gresetFun()}>重置</button>
+            <button onClick={() => this.gresetFun()}>重新开始</button>
           </div>
           <br />
           <div>
